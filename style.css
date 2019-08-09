@@ -1,0 +1,23 @@
+.container {
+    margin: 30px;
+    align-content: center;
+}
+
+.file {
+    width: 400px;
+    margin: auto;
+}
+
+#image {
+    margin: 40px 0 0 0;
+    width: 400px;
+    height: 400px;
+    object-fit: contain !important;
+}
+
+.image-tag {
+    margin: 40px 0 0 0;
+    width: 400px;
+    height: 400px;
+    object-fit: contain !important;
+}
